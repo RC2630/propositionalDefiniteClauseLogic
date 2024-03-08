@@ -1,0 +1,18 @@
+d1
+u2
+u3
+ok1
+ok2
+out
+l1 <- w0
+w0 <- w1 ^ u2
+w0 <- w2 ^ d2
+w1 <- w3 ^ u1
+w2 <- w3 ^ d1
+l2 <- w4
+w4 <- w3 ^ u3
+p1 <- w3
+w3 <- w5 ^ ok1
+p2 <- w6
+w6 <- w5 ^ ok2
+w5 <- out

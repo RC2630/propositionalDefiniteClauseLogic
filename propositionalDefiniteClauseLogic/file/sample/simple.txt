@@ -1,0 +1,9 @@
+a <- b ^ c
+a <- e ^ f
+b <- f ^ k
+c <- e
+d <- k
+e
+f <- j ^ e
+f <- c
+j <- c

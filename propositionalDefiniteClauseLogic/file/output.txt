@@ -1,5 +1,0 @@
-using clause "e", updated derivables to [e]
-using clause "c <- e", updated derivables to [e, c]
-using clause "f <- c", updated derivables to [e, c, f]
-using clause "j <- c", updated derivables to [e, c, f, j]
-using clause "a <- e ^ f", updated derivables to [e, c, f, j, a]
